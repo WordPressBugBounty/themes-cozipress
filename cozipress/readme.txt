@@ -2,10 +2,10 @@
 
 Contributors: burgersoftware
 Requires at least: 4.4
-Tested up to: 6.6
+Tested up to: 6.7
 Requires PHP: 5.6
-Stable tag: 1.0.31
-Version: 1.0.31
+Stable tag: 1.0.32
+Version: 1.0.32
 License: GPLv3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 Tags: one-column, two-columns, left-sidebar, right-sidebar, flexible-header, custom-background, custom-colors, custom-header, custom-menu, featured-image-header, featured-images, footer-widgets, full-width-template, theme-options, threaded-comments, translation-ready, blog, grid-layout, portfolio, photography
@@ -21,7 +21,7 @@ Cozipress is distributed under the terms of the GNU GPL
 CoziPress is a Modern Multipurpose Business theme for Agency, Business, Finance, Consulting, Factory, Real Estate, Construction, Cleaning Service, Startup or any other individual website due to its adaptability. It looks perfect on all modern browsers, mobile, tablets, and any device, Theme is full of customization options and settings, you can change almost everything. CoziPress provides unique layouts Such as Service, Team, About, Gallery, Blog Pages, Shop Pages, Pricing Pages, Contact Page, Coming Soon, Careers Page, and many more. If you are a lover of creative designs and would like to build a very unique and professional website quickly then your search should end at CoziPress. Checkout Pro Version https://burgerthemes.com/demo/pro/cozipress/
 
 == Installation ==
-	
+
 1. In your admin panel, go to Appearance > Themes and click the Add New button.
 2. Click Upload and Choose File, then select the theme's .zip file. Click Install Now.
 3. Click Activate to use your new theme right away.
@@ -97,6 +97,10 @@ License: CC0 Public Domain
 Clip Art & All other Images have been used in images folder, Created by Burger Software. Also they are GPL Licensed and free to use and free to redistribute further.
 
 == Changelog ==
+
+@version 1.0.32
+* WordPress 6.7 Tested
+* Translate String Issue Fixed  
 
 @version 1.0.31
 * WordPress 6.6 Tested
