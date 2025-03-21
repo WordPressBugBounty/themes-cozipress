@@ -25,7 +25,8 @@ class Cozipress_Customizer_Notify {
 	
 	private $activate_button_label;
 
-	
+	private $config;
+
 	private $cozipress_deactivate_button_label;
 
 	
