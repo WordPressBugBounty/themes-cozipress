@@ -4,7 +4,7 @@ Theme URI: https://burgerthemes.com/cozipress-free/
 Author: burgersoftware
 Author URI: https://burgerthemes.com/
 Description: CoziPress is a Modern Multipurpose Business theme for Agency, Business, Finance, Consulting, Factory, Real Estate, Construction, Cleaning Service, Startup or any other individual website due to its adaptability. It looks perfect on all modern browsers, mobile, tablets, and any device, Theme is full of customization options and settings, you can change almost everything. CoziPress provides unique layouts Such as Service, Team, About, Gallery, Blog Pages, Shop Pages, Pricing Pages, Contact Page, Coming Soon, Careers Page, and many more. If you are a lover of creative designs and would like to build a very unique and professional website quickly then your search should end at CoziPress. Checkout Pro Version https://burgerthemes.com/demo/pro/cozipress/
-Version: 1.0.36
+Version: 1.0.37
 Tested up to: 6.8
 Requires PHP: 5.6
 License: GPLv3 or later
@@ -67,4 +67,8 @@ widget .wp-block-group .wp-block-rss li:last-child {
 }
 .sidebar .widget .wp-block-group .wp-block-audio {
     padding: 1.563rem 1.000rem 1.563rem;
+}
+.entry-content blockquote cite a:hover,
+.entry-content blockquote cite a:focus {
+    text-decoration: underline;
 }
